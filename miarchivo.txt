@@ -1,0 +1,7 @@
+
+
+
+archivo de ejemplo
+para ser usado en 
+ejercicio de ficheros
+php.
